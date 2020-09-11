@@ -19,7 +19,8 @@
 
 ## I am Programmer, App Developer and ML Enthusiast
  <img align="right" alt="GIF" src="https://media.giphy.com/media/ryKkajMOMjYCQ/giphy.gif" />
-** About Me **
+
+**About Me**
 - 🌱 I’m currently learning Competitive Programming and ML 
 - 👯 I’m looking to collaborate on Android App development (Using Flutter Framework) 
 - 🤔 I’m looking for help with Machine Learning and Deep Learning 
