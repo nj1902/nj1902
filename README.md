@@ -7,6 +7,11 @@
 <a href="https://twitter.com/NamanJa52299261">
   <img align="left" alt="Naman's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+
+<a href="https://stackoverflow.com/users/13606112/naman-jain">
+  <img align="left" alt="Naman's Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+</a>
+
 <!--
 <a href="https://facebook.com/NamanJa52299261">
   <img align="left" alt="Naman's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
