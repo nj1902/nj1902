@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Naman Jain
 <br/>
-<a href="https://www.linkedin.com/in/namanjain-1902/">
+<a href="https://www.linkedin.com/in/naman-jain1902?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2Br9TrcxtRUuWuF%2BUxYeKZg%3D%3D">
   <img align="left" alt="Naman's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
