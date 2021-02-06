@@ -27,7 +27,7 @@
 <br />
 
 ### Learning by Doing.
- <img align="right" alt="IMG" src="https://imgs.xkcd.com/comics/python_environment.png" />
+ <img align="right" alt="IMG" src="https://media.giphy.com/media/H55l0bcEOOqWqlrNbt/giphy.gif" />
 <!--https://media.giphy.com/media/ryKkajMOMjYCQ/giphy.gif-->
 
 **About Me**
