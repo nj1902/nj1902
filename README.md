@@ -29,15 +29,16 @@
 ### Learning by Doing.
  <img align="right" alt="IMG" src="https://media.giphy.com/media/H55l0bcEOOqWqlrNbt/giphy.gif" />
 <!--https://media.giphy.com/media/ryKkajMOMjYCQ/giphy.gif-->
-
+<!--
 **About Me**
 - 🌱 I’m currently learning Competitive Programming and ML 
 - 👯 I’m looking to collaborate on Android App development (Using Flutter Framework) 
 - 🤔 I’m looking for help with Machine Learning and Deep Learning 
 - 💬 Ask me about any doubts related to Competitive Programming and App Development 
 - 📫 How to reach me?: namanjain1902.info@gmail.com
-- 😄 Pronouns: Namanjain1902, White-Devil
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: Something exciting coming up next month!!!! 
+-->
 
 **Languages and Tools:**  
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
@@ -45,6 +46,10 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
