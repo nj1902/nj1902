@@ -27,6 +27,21 @@
 <br />
 
 ### Learning by Doing.
+ 
+ <!--
+ [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/nj1902/StrapDown.js/stargazers/) [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/nj1902?tab=followers) [![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/nj1902/StrapDown.js/watchers/) 
+
+<br>
+
+-->
+
+
+
+
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nj1902" alt="nj1902" /></a>
+ 
+
+
  <img align="right" alt="IMG" src="https://media.giphy.com/media/H55l0bcEOOqWqlrNbt/giphy.gif" />
 <!--https://media.giphy.com/media/ryKkajMOMjYCQ/giphy.gif-->
 <!--
