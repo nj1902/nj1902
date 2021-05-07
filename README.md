@@ -12,6 +12,8 @@
   <img align="left" alt="Naman's Facebook" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
+![Profile views](https://gpvc.arturio.dev/nj1902)  
+
 <a href="https://stackoverflow.com/users/13606112/naman-jain">
   <img align="left" alt="Naman's Stack Overflow" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
@@ -21,8 +23,11 @@
   <img align="left" alt="Naman's Medium" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
+<br/><br/>
 
-![Profile views](https://gpvc.arturio.dev/nj1902)  
+<a href="https://www.codechef.com/users/itsnj1902">
+  <img align="left" alt="Naman's CodeChef" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>
 
 <br />
 
