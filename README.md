@@ -1,5 +1,6 @@
 ### Hi there 👋, My name is Naman Jain
 <br/>
+<div style="display: block">
 <a href="https://www.linkedin.com/in/naman-jain1902?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2Br9TrcxtRUuWuF%2BUxYeKZg%3D%3D">
   <img align="left" alt="Naman's LinkdeIN" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -28,9 +29,11 @@
 <a href="https://www.codechef.com/users/itsnj1902">
   <img align="left" alt="Naman's CodeChef" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
+<div>  
+
 
 <br />
-
+  
 ### Learning by Doing.
  
  <!--
@@ -43,22 +46,22 @@
 
 
 
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nj1902" alt="nj1902" /></a>
+<!--  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nj1902" alt="nj1902" /></a> -->
  
 
 
- <img align="right" alt="IMG" src="https://media.giphy.com/media/H55l0bcEOOqWqlrNbt/giphy.gif" />
+ <img  width="50%" height="505" align="right" alt="IMG" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" />
 <!--https://media.giphy.com/media/ryKkajMOMjYCQ/giphy.gif-->
-<!--
+<!-- https://media.giphy.com/media/H55l0bcEOOqWqlrNbt/giphy.gif -->
+
 **About Me**
-- 🌱 I’m currently learning Competitive Programming and ML 
-- 👯 I’m looking to collaborate on Android App development (Using Flutter Framework) 
+- 🌱 I’m currently learning Data Structures and Algorithms.
+- 👯 I’m looking to collaborate on Web/App Dev Projects.
 - 🤔 I’m looking for help with Machine Learning and Deep Learning 
-- 💬 Ask me about any doubts related to Competitive Programming and App Development 
+- 💬 Ask me about any doubts related to Web Development.
 - 📫 How to reach me?: namanjain1902.info@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Something exciting coming up next month!!!! 
--->
+- ⚡ Fun fact:  We live in a technically advanced world full of Zero-day vulnerabilities.
 
 **Languages and Tools:**  
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
@@ -77,14 +80,17 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <img src="https://img.icons8.com/color/48/000000/heroku.png"/>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nj1902&show_icons=truee&theme=radical)  
 
-<!--
-<span>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nj1902&count_private=true&layout=compact" width="410"/>
+<img  align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=nj1902&show_icons=truee&theme=cobalt ">
+<img  aligh="right"  width="45%%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nj1902&count_private=true&layout=compact&theme=cobalt"/>
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nj1902&show_icons=truee&theme=cobalt)   -->
+
+<!-- 
+<span style="float:right">
+<img style="display:inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nj1902&count_private=true&layout=compact" width="410"/>
  &nbsp;&nbsp;
 </span>
--->
 
+ -->
  
 
